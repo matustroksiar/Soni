@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Soni/static/css/main.073c9b0a.css",
+    "main.js": "/Soni/static/js/main.e5474481.js",
+    "static/media/love.png": "/Soni/static/media/love.821fc93d6b1d699ed544.png",
+    "index.html": "/Soni/index.html",
+    "main.073c9b0a.css.map": "/Soni/static/css/main.073c9b0a.css.map",
+    "main.e5474481.js.map": "/Soni/static/js/main.e5474481.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e5474481.js"
+  ]
+}
